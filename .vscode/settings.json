@@ -1,9 +1,0 @@
-{
-    "python.analysis.typeCheckingMode": "standard",
-    // 下拉智能提示最大条数
-"editor.suggest.maxVisibleSuggestions": 30,
-// 开启内联灰色AI提示
-"editor.inlineSuggest.enabled": true,
-// Python强制用Pylance语言服务（修复你Python无提示）
-"python.languageServer": "Pylance"
-}
