@@ -698,7 +698,8 @@ def diaoyong(x,y,a):
     return a(x,y)
 
 print(diaoyong(1,2,add))
-isadoaisdo
+isadoaisdoldfksdlfksd
+善良的f
 
 
 
